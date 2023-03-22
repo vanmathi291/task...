@@ -1,19 +1,76 @@
 .App{
-  text-align: center;
+  text-align: left;
+  width: 50%;
   
 }
 
 
 .container {
   display: flex;
+  border: 2px solid blanchedalmond;
 }
 
 .data{
   margin: 20px;
-  border: 2px solid red;
+  border: 2px solid black;
+  padding: 20px;
+  background-color: aqua;
 }
 
 .disk{
-  text-align: center;
-  width: 70%;
+  text-align: left;
+  width: 50%;
+}
+
+.project{
+  border: 2px solid blanchedalmond;
+}
+
+
+.shape{
+  display: flex;
+  border: 2px solid black;
+  padding: 20px;
+  background-color: blue;
+}
+.shape1{
+  border: 2px solid black;
+  padding: 20px;
+  background-color: green;
+}
+.shape2{
+  border: 2px solid black;
+  padding: 20px;
+  background-color: skyblue;
+}
+.shape3{
+  border: 2px solid black;
+  padding: 20px;
+  background-color: yellow;
+}
+.shape4{
+  border: 2px solid black;
+  padding: 20px;
+  background-color: red;
+}
+.shape5{
+  border: 2px solid black;
+  padding: 20px;
+  background-color: gray;
+}
+.shape6{
+  border: 2px solid black;
+  padding: 20px;
+  background-color: beige;
+}
+.shape7{
+  border: 2px solid black;
+  padding: 20px;
+  background-color: darkslateblue;
+}
+.box{
+  display: flexbox;
+  border: 2px solid blanchedalmond;
+  margin: 20px;
+  padding: 100px;
 }
